@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "591209250225",
+    "project_id": "fir-auth-f69bf",
+    "storage_bucket": "fir-auth-f69bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591209250225:android:95abad562c75c1950f5190",
+        "android_client_info": {
+          "package_name": "com.example.spor1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "xx"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
